@@ -1,0 +1,76 @@
+body {
+    background: linear-gradient(90deg, #fffe00 0%, #ff00e2 100%);
+}
+
+img {
+    border-style: solid;
+    border-radius: 50%;
+    border-width: 40px;
+    border-color: rgb(79, 4, 104);
+  background-color: rgb(107, 255, 33);
+  width: 500px;
+  height: 600px; 
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+    font-family: 'Rubik Doodle Triangles';
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Bungee Spice', sans-serif;
+}
+
+h4 {
+    display: none;
+    font-family: 'Rubik Doodle Triangles', system-ui;
+    font-size: xx-large;
+    color: rgb(117, 80, 22);
+}
+
+h5 {
+    display: none;
+    font-size: xx-large;
+}
+
+a {
+    font-size: 3px;
+}
+
+ol { 
+    color: darkred;
+}
+
+ul {
+    color: antiquewhite;
+    padding-left: 20px;
+    font-size: 100px;
+}
+
+p {
+    font-size: large;
+    color: rgb(215, 209, 35);
+    font-style: oblique;
+    text-indent: 90%;
+}
+
+.ipsum {
+    margin: 30px 30px 30px 30px;
+    text-align: center;
+    padding-left: 600px;
+    font-family: 'Bungee Spice', sans-serif;
+}
+
+.gridItself {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
+
+.gridItems {
+  height: 30px;
+  background-color: turquoise;
+  padding: 5px 5xp 5px 5px;
+  border: 5px solid yellowgreen;
+}
