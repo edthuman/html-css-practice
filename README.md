@@ -1,3 +1,3 @@
 I made a basic website using HTML to practice using elements.
 
-I then learnt the basics of CSS, and was tasked with trying to make the webpage as hideous as possible.
+I then messed around with CSS, trying to make the most unusable version of the website that I could.
